@@ -233,3 +233,15 @@ a{
     border-radius: 50%;
     margin: -6px;
 }
+.album{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.album-opt{
+    margin: 1rem;
+}
+.album .artist-name{
+    margin-bottom: 2rem;
+    opacity: 0.5;
+}
