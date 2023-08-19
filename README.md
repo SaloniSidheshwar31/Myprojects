@@ -1,2 +1,2 @@
 # Myprojects
- logos, poster, illustrations, artwork, photograph and certificates 
+ Spotify clone, logos, poster, illustrations, artwork and photographs .
