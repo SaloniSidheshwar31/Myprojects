@@ -1,2 +1,2 @@
 # Myprojects
- Spotify clone , weather application , logos, illustrations, artwork  .
+ Spotify clone , weather application , illustrations.
